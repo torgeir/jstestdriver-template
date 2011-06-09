@@ -1,0 +1,12 @@
+[submodule "vendor/jasmine-jstd-adapter"]
+	path = vendor/jasmine-jstd-adapter
+	url = https://github.com/mhevery/jasmine-jstd-adapter.git
+[submodule "vendor/jasmine"]
+	path = vendor/jasmine
+	url = https://github.com/pivotal/jasmine.git
+[submodule "vendor/sinonjs"]
+	path = vendor/sinonjs
+	url = https://github.com/cjohansen/Sinon.JS.git
+[submodule "vendor/jasmine-jstf-adapter"]
+	path = vendor/jasmine-jstf-adapter
+	url = https://github.com/mhevery/jasmine-jstd-adapter.git
